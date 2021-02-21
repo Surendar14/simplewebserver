@@ -70,8 +70,3 @@ httpd.serve_forever()
 ## RESULT:
 Thus a website is designed to display multiplication tables and is hosted in the url http://surendar.student.saveetha.in
 
-
-## OUTPUT:
-
-
-## RESULT:
